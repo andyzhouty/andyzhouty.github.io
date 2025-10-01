@@ -3,7 +3,7 @@ title: 超星学习通自动刷课指南
 published: 2025-10-01
 description: '解放时间，做真正该做的事'
 tags: ['自动刷课']
-draft: true 
+draft: false
 ---
 
 ## 用前须知
